@@ -58,5 +58,7 @@ class TabItem {
 - In your .forEach() method's callback function, return a new instance of TabLink and pass in each link as a parameter
 
 */
-
-links = document.querySelectorAll();
+//***************************************** */
+//links = document.querySelectorAll();
+//***************************************** */
+// Uncomment
